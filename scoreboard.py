@@ -39,6 +39,7 @@ class scoreboard(Turtle):
                 data.write(f"{self.highscore}")
         self.score=0
         self.update()
+#     github
 
 
 
